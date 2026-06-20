@@ -2,6 +2,7 @@
 name: cleaning-assistant
 display_name: "智能保洁助手"
 version: "1.0.0"
+homepage: https://github.com/bettermen/cleaning-assistant
 description: >
   智能保洁全流程管理助手。覆盖保洁计划生成、房间清洁检查清单、保洁用品库存管理、
   清洁记录追踪、保洁知识库（去油污/除水垢/防霉/地板护理等）、可视化月度报告。
