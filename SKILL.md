@@ -16,6 +16,13 @@ allowed-tools:
   - Write
   - Bash
   - WebFetch
+metadata:
+  openclaw:
+    requires:
+      bins:
+        - python.exe
+    emoji: "🧹"
+    homepage: https://github.com/bettermen/cleaning-assistant
 ---
 
 # 智能保洁助手 Skill
